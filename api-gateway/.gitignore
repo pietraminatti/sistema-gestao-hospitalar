@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Ignore build outputs
+dist/
+
+# Ignore logs
+*.log
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.iml
+
+# Ignore Docker files
+*.db
+docker-compose.override.yml
+
+# Ignore temporary files
+*.tmp
+*.bak
